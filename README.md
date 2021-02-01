@@ -23,7 +23,7 @@ Siga os passos abaixo!
 (depois disso toque na permissão)
 > apt install git
 > pkg install ffmpeg
-> pkg install wget
+> apt install wget
 > pkg install nodejs
 > pkg install npm
 > git clone https://github.com/vinizeus/ptzeus.git
@@ -35,6 +35,11 @@ Siga os passos abaixo!
 
 ```bash
 > npm start
+> leia o códico QR e após isso de um exit
+> cd ptzeus
+> npm i -g pm2
+> pm2 start index.js
+> pm2 monit
 ```
 
 
