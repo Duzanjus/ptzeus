@@ -1,4 +1,4 @@
-### OPAAA ZEUS AKI GARAIO ⚡
+### OPAAA DUZANJUS AKI GARAIO ⚡
 
 ## Ferramentas
 
@@ -45,6 +45,6 @@ Siga os passos abaixo!
 
 ## CONTATOS
 
-- Whatsapp: wa.me/+556993899391
-- Instagram: @zultra_edits
-- YouTube: https://youtube.com/channel/UCpS0ngad4LjtDoux_JvOK6Q
+- Whatsapp: x
+- Instagram: x
+- YouTube:x
